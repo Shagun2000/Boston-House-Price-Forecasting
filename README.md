@@ -5,9 +5,13 @@ Data Preprocessing: The dataset is preprocessed by handling missing values, scal
 Feature Selection: Relevant features are selected based on their correlation with the target variable (house prices) and their impact on the prediction model's performance.
 
 Model Training: Different regression models such as Linear Regression, Decision Trees, Random Forests, and Gradient Boosting are trained on the preprocessed data to learn the patterns and relationships between the features and target variable.
+
 Model Evaluation: The trained models are evaluated using various performance metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared to assess their accuracy and predictive power.
+
 Hyperparameter Tuning: Hyperparameters of the models are fine-tuned using techniques like cross-validation and grid search to optimize their performance.
 Model Selection: The best-performing model is selected based on its evaluation metrics and is deployed for predicting house prices.
+
 Results and Insights: The project provides insights into the factors that most significantly influence house prices in the Boston area and allows for accurate predictions of housing prices based on the selected model.
+
 Future Improvements: The project offers scope for further improvement by exploring advanced regression techniques, incorporating additional relevant features, or applying ensemble learning methods to enhance the prediction accuracy.
 
